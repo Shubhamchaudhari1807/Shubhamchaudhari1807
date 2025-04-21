@@ -84,16 +84,10 @@
 
 <h3 align="left">✨ Stay Connected:</h3>
 <div align="left">
-<a href="https://github.com/Paresh-Patil-11" target="_blank">
+<a href="https://github.com/Shubhamchaudhari1807" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/pareshpatil11" target="_blank">
+<a href="https://www.linkedin.com/in/shubham-chaudhari-249877253/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/pareshpatil_11" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%23000000.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-<a href="https://www.instagram.com/paresh_.11" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a> 
 </div>
