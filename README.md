@@ -10,7 +10,7 @@
 - 🔭 *I’m a B.Tech computer science student and will graduate in 2025.*
 - 👨‍💻 *Passionate about becoming a Mobile App developer.*
 - 💻 *I’ve solved around 200+ DSA problems on various platforms.*
-- 📩 *Reach out via Email:* [shubhamnchaudhari7@gmail.com](mailto:shubhamnchaudhari7@gmail.com)
+- 📩 *Reach out via Email:* [chauhdharishubham1807@gmail.com](mailto:chauhdharishubham1807@gmail.com)
 
 ---
 
