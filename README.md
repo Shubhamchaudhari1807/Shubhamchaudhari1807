@@ -11,7 +11,7 @@
 - 👨‍💻 *Passionate about becoming a Mobile App developer.*
 - 💻 *I’ve solved around 200+ DSA problems on various platforms.*
 - 📩 *Reach out via Email:* [chaudharishubham1807@gmail.com](mailto:chaudharishubham1807@gmail.com)
-
+- 🧑‍💻 From passion projects to production-ready systems, see what I’ve been building. [portfolio](https://shubhamportfoliosite.netlify.app)
 ---
 
 ### 👨‍💻 Coding Credentials:
