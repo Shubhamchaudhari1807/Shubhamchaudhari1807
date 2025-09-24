@@ -1,7 +1,10 @@
 <h1 align="center">HI 👋, I'M Shubham</h1> 
 <h2 align="center" style="color: lightblue;">A Passionate ASP.NET Developer | Mobile App Developer | Full Stack Web Developer From India</h2>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=paresh-patil-11&label=Profile%20views&color=0e75b6&style=flat" alt="paresh-patil-11" />
+ <a href="https://drive.google.com/file/d/1VIgctTDMSB5f-CkyDjW-5ysmpkvLok4F/view?usp=sharing" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=shubham-chaudhari&label=Shubham%20Chaudhari&color=0e75b6&style=flat" alt="Shubham Chaudhari" />
+</a>
+
 </p>
 
 <img align="right" alt="coding" width="360" src="https://cdn.openart.ai/published/yFa3D8dZlShILMLMygbl/lBW7W9WR_-HQZ_raw.jpg" />
