@@ -9,10 +9,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Web+%26+Mobile+Developer;💻+ASP.NET+%7C+MERN+%7C+Flutter+Enthusiast;⚡+Problem+Solver+%7C+200%2B+DSA+Problems;🌍+From+India+to+the+World" alt="Typing Animation" />
 </h2>
 
-<!-- Public & Real Profile Views -->
+<!-- Visitors Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shubhamchaudhari1807&label=Profile%20Views&color=00FFD1&style=for-the-badge" alt="Profile Views" />  
-  <span style="font-size: 18px; margin-left:15px;">👁️ Visitors recorded: <b>2,067+</b></span>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shubhamchaudhari1807.profile&right_color=00FFD1&left_text=Visitors" alt="Visitors Counter" />  
 </p>
 
 <!-- Drive Link Badge -->
@@ -84,7 +83,6 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Shubhamchaudhari1807&show_icons=true&theme=radical&hide_border=true" height="165"/>
 
- 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamchaudhari1807&layout=compact&theme=radical&hide_border=true" height="165"/>
 </div>
@@ -95,3 +93,4 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shubhamchaudhari1807&theme=matrix&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" />
 </p>
+
