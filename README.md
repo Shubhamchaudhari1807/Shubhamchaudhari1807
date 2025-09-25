@@ -20,8 +20,8 @@
     <img src="https://img.shields.io/badge/My%20Resume-Drive-blue?style=for-the-badge&logo=google-drive" alt="Resume Drive Link"/>
   </a>
 </p>
-
-<img align="right" alt="coding" width="360" src="https://cdn.openart.ai/published/yFa3D8dZlShILMLMygbl/lBW7W9WR_-HQZ_raw.gif" />
+<!-- Coding GIF --> 
+<img align="right" alt="coding" width="360" src="https://cdn.openart.ai/published/yFa3D8dZlShILMLMygbl/lBW7W9WR_-HQZ_raw.jpg" />
 
 ---
 
