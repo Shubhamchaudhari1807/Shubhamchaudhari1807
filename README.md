@@ -17,7 +17,7 @@
 
 <!-- Drive Link Badge -->
 <p align="center">
-  <a href="https://drive.google.com/file/d/1VIgctTDMSB5f-CkyDjW-5ysmpkvLok4F/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/18Lch5OcZz8NDsOd5LFMMX3mIN7hCuJMx/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/My%20Resume-Drive-blue?style=for-the-badge&logo=google-drive" alt="Resume Drive Link"/>
   </a>
 </p>
@@ -84,9 +84,7 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Shubhamchaudhari1807&show_icons=true&theme=radical&hide_border=true" height="165"/>
 
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=Shubhamchaudhari1807&theme=radical&hide_border=true" height="165"/>
-
+ 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamchaudhari1807&layout=compact&theme=radical&hide_border=true" height="165"/>
 </div>
