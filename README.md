@@ -63,8 +63,7 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Shubhamchaudhari1807&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=Shubhamchaudhari1807&theme=tokyonight&hide_border=true" height="165"/>
+
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamchaudhari1807&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
@@ -82,6 +81,6 @@
 
 ### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shubhamchaudhari1807&theme=onestar&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shubhamchaudhari1807&theme=onestar" />
 </p>
 
