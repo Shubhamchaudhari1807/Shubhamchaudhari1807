@@ -64,15 +64,18 @@
   <img src="https://img.shields.io/badge/ASP.NET-%23008000.svg?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge"/>
+  <!-- Java & JSP/Servlet badges -->
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/JSP-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="JSP"/>
+<img src="https://img.shields.io/badge/Servlet-%23A44200.svg?style=for-the-badge&logo=java&logoColor=white" alt="Servlet"/>
+
 </p>
 <p align="left">
   <!-- Database & Cloud -->
   <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+ 
 </p>
 
 ---
