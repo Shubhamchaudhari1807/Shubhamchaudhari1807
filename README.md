@@ -1,18 +1,18 @@
-<!-- Animated Header -->
+<!-- Futuristic Animated Header -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Hi, I'm Shubham Chaudhari
+  <span style="color:#00C0FF;">Hi, I'm Shubham Chaudhari</span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0FF&center=true&width=600&lines=A+Passionate+ASP.NET+Developer;Full+Stack+Web+Developer;Mobile+App+Developer;Problem+Solver+%7C+DSA+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Web+%26+Mobile+Developer;💻+ASP.NET+%7C+MERN+%7C+Flutter+Enthusiast;⚡+Problem+Solver+%7C+200%2B+DSA+Problems;🌍+From+India+to+the+World" alt="Typing Animation" />
 </h2>
 
 <!-- Profile Views Counter -->
 <p align="center">
  <a href="https://drive.google.com/file/d/1VIgctTDMSB5f-CkyDjW-5ysmpkvLok4F/view?usp=sharing" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=Shubhamchaudhari1807&label=Profile%20Views&color=00C0FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Shubhamchaudhari1807&label=Profile%20Views&color=00FFD1&style=for-the-badge" alt="Profile Views" />
  </a>
 </p>
 
@@ -57,15 +57,31 @@
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 High-Tech GitHub Analytics  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubhamchaudhari1807&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhamchaudhari1807&theme=tokyonight" alt="GitHub Streak" height="165"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubhamchaudhari1807&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1" height="165"/>
+
+  <!-- GitHub Streak (Alternative Endpoint) -->
+  <img src="https://streak-stats.demolab.com?user=Shubhamchaudhari1807&theme=radical&hide_border=true&background=0D1117&stroke=00FFD1&ring=00FFD1&fire=FF8000&currStreakLabel=00FFD1" height="165"/>
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamchaudhari1807&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFD1" height="165"/>
 </p>
 
 ---
 
-### ⚡ Fun Touch
+## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shubhamchaudhari1807&theme=onestar&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shubhamchaudhari1807&theme=matrix&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (Animated)
+<p align="center">
+  <img src="https://github.com/Shubhamchaudhari1807/Shubhamchaudhari1807/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
