@@ -1,46 +1,71 @@
-<h1 align="center">HI 👋, I'M Shubham</h1> 
-<h2 align="center" style="color: lightblue;">A Passionate ASP.NET Developer | Mobile App Developer | Full Stack Web Developer From India</h2>
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hi, I'm Shubham Chaudhari
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-<p align="left">
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0FF&center=true&width=600&lines=A+Passionate+ASP.NET+Developer;Full+Stack+Web+Developer;Mobile+App+Developer;Problem+Solver+%7C+DSA+Enthusiast" alt="Typing Animation" />
+</h2>
+
+<!-- Profile Views Counter -->
+<p align="center">
  <a href="https://drive.google.com/file/d/1VIgctTDMSB5f-CkyDjW-5ysmpkvLok4F/view?usp=sharing" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=Shubhamchaudhari1807&label=Profile%20Views&color=0e75b6&style=flat" alt="Shubhamchaudhari1807" />
+  <img src="https://komarev.com/ghpvc/?username=Shubhamchaudhari1807&label=Profile%20Views&color=00C0FF&style=for-the-badge" alt="Profile Views" />
  </a>
 </p>
 
+<!-- Coding GIF -->
 <img align="right" alt="coding" width="360" src="https://cdn.openart.ai/published/yFa3D8dZlShILMLMygbl/lBW7W9WR_-HQZ_raw.jpg" />
 
 ---
 
-### About Me
-- 🔭 *I’m a B.Tech computer science student and will graduate in 2025.*
-- 👨‍💻 *Passionate about becoming a Mobile App developer.*
-- 💻 *I’ve solved around 200+ DSA problems on various platforms.*
-- 📩 *Reach out via Email:* [chaudharishubham1807@gmail.com](mailto:chaudharishubham1807@gmail.com)
-- 🧑‍💻 From passion projects to production-ready systems, see what I’ve been building. [portfolio](https://shubhamportfoliosite.netlify.app)
+### 👨‍💻 About Me  
+- 🔭 *B.Tech Computer Science student (Graduating 2025)*  
+- 👨‍💻 *Passionate about becoming a Mobile App Developer*  
+- 💻 *Solved 200+ DSA problems on various platforms*  
+- 📩 *Email:* [chaudharishubham1807@gmail.com](mailto:chaudharishubham1807@gmail.com)  
+- 🌐 *Portfolio:* [shubhamportfoliosite.netlify.app](https://shubhamportfoliosite.netlify.app)  
 
 ---
 
-### 👨‍💻 Coding Credentials:
+### 🚀 Coding Credentials
 <p align="left">
   <a href="https://leetcode.com/u/shubham_chaudhari_1807/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="40" width="50" />
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/shubhamchahese/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="40" width="50" /> 
+    <img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
   <a href="https://www.codechef.com/users/rcp_211101018" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" alt="CodeChef" height="40" width="40" style="filter: invert(100%);" />
+    <img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">✨ Stay Connected:</h3>
-<div align="left">
-<a href="https://github.com/Shubhamchaudhari1807" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/shubham-chaudhari-249877253/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>
+### 🌍 Stay Connected
+<p align="left">
+  <a href="https://github.com/Shubhamchaudhari1807" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shubham-chaudhari-249877253/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubhamchaudhari1807&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhamchaudhari1807&theme=tokyonight" alt="GitHub Streak" height="165"/>
+</p>
+
+---
+
+### ⚡ Fun Touch
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shubhamchaudhari1807&theme=onestar&no-frame=true&margin-w=15&margin-h=15" />
+</p>
