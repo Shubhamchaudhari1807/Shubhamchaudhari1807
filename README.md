@@ -28,7 +28,7 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🔭 *B.Tech Computer Science student (Graduating 2025)*  
+- 🔭 *B.Tech Computer Science student (Graduated 2025)*  
 - 👨‍💻 *Passionate about Mobile App & Web Development*  
 - 💻 *Solved 200+ DSA problems*  
 - 📩 *Email:* [chaudharishubham1807@gmail.com](mailto:chaudharishubham1807@gmail.com)  
