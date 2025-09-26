@@ -22,11 +22,7 @@
   </a>
 </p>
 <!-- Coding GIF -->
-<img align="right" 
-     alt="coding" 
-     src="https://media1.tenor.com/m/uRvKNeItESgAAAAd/dev-github.gif" 
-     width="360" 
-     style="border: 2px solid #00FFD1; border-radius: 10px; padding: 5px; margin-left: 15px;"/>
+<img align="right" alt="coding" width="360" src="https://cdn.openart.ai/published/yFa3D8dZlShILMLMygbl/lBW7W9WR_-HQZ_raw.jpg" />
 
 
 ---
