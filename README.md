@@ -103,7 +103,7 @@
 <div align="center">
 
   <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhamchaudhari1807&theme=radical&hide_border=true" height="250" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhamchaudhari1807&bg_color=0d1117&color=00cfff&line=00e5ff&point=009dff&area=true&hide_border=true" height="250" />
 
 </div>
 
