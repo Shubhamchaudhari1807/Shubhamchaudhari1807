@@ -80,14 +80,40 @@
 
 ---
 
-### 📊 GitHub Analytics  
+## 📊 GitHub Analytics  
+
 <div align="center">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubhamchaudhari1807&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubhamchaudhari1807&show_icons=true&theme=radical&hide_border=true" height="165" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamchaudhari1807&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamchaudhari1807&layout=compact&theme=radical&hide_border=true" height="165" />
+  
+</div>
+
+<div align="center">
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=Shubhamchaudhari1807&theme=radical&hide_border=true" height="165" />
+
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Shubhamchaudhari1807&theme=radical&no-frame=true&no-bg=true&row=1&column=6" height="150" />
+
+</div>
+
+<div align="center">
+
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhamchaudhari1807&theme=radical&hide_border=true" height="250" />
+
+</div>
+
+<div align="center">
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Shubhamchaudhari1807&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
+
 </div>
 
 ---
