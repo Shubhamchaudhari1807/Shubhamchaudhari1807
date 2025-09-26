@@ -11,8 +11,9 @@
 
 <!-- Visitors Counter -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shubhamchaudhari1807.profile&right_color=00FFD1&left_text=Visitors" alt="Visitors Counter" />  
+  <img src="https://komarev.com/ghpvc/?username=Shubhamchaudhari1807&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
 
 <!-- Drive Link Badge -->
 <p align="center">
