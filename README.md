@@ -115,10 +115,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Shubhamchaudhari1807&theme=matrix&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" />
 </p>
 
-## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shubhamchaudhari1807/Shubhamchaudhari1807/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shubhamchaudhari1807/Shubhamchaudhari1807/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Shubhamchaudhari1807/Shubhamchaudhari1807/output/github-snake.svg" />
-</picture>
