@@ -22,7 +22,9 @@
   </a>
 </p>
 <!-- Coding GIF --> 
-<img align="right" alt="coding" width="360" src="https://cdn.openart.ai/published/yFa3D8dZlShILMLMygbl/lBW7W9WR_-HQZ_raw.jpg" />
+<!-- Coding GIF -->
+<img align="right" alt="coding" width="360" src="https://media.tenor.com/p3uwSF5MDDU.gif" />
+
 
 ---
 
