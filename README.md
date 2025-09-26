@@ -21,9 +21,12 @@
     <img src="https://img.shields.io/badge/My%20Resume-Drive-blue?style=for-the-badge&logo=google-drive" alt="Resume Drive Link"/>
   </a>
 </p>
-<!-- Coding GIF --> 
 <!-- Coding GIF -->
-<img align="right" alt="coding" width="360" src="https://media1.tenor.com/m/uRvKNeItESgAAAAd/dev-github.gif" />
+<img align="right" 
+     alt="coding" 
+     src="https://media1.tenor.com/m/uRvKNeItESgAAAAd/dev-github.gif" 
+     width="360" 
+     style="border: 2px solid #00FFD1; border-radius: 10px; padding: 5px; margin-left: 15px;"/>
 
 
 ---
