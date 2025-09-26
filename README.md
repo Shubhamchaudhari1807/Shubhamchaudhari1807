@@ -22,17 +22,8 @@
   </a>
 </p>
 <!-- Coding GIF --> 
-<!-- Coding GIF (Tenor Embed) -->
-<div class="tenor-gif-embed" 
-     data-postid="13338477054164537640" 
-     data-share-method="host" 
-     data-aspect-ratio="1.39205" 
-     data-width="100%">
-    <a href="https://tenor.com/view/dev-github-gif-13338477054164537640">Dev Github GIF</a> 
-    from <a href="https://tenor.com/search/dev-gifs">Dev GIFs</a>
-</div>
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+<!-- Coding GIF -->
+<img align="right" alt="coding" width="360" src="https://media1.tenor.com/m/uRvKNeItESgAAAAd/dev-github.gif" />
 
 
 ---
