@@ -117,10 +117,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Shubhamchaudhari1807&theme=matrix&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubhamchaudhari1807&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=79ff97" width="48%"/>
-  
-</p>
 
 
 
