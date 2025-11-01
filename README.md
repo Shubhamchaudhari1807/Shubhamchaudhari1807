@@ -118,7 +118,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shubhamchaudhari1807&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=79ff97" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhamchaudhari1807&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF" width="48%"/>
+  
 </p>
 
 
