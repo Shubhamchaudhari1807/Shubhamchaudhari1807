@@ -6,8 +6,9 @@
 </h1>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Web+%26+Mobile+Developer;💻+ASP.NET+%7C+MERN+%7C+Flutter+Enthusiast;⚡+Problem+Solver+%7C+200%2B+DSA+Problems;🌍+From+India+to+the+World" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Web+%26+Mobile+App+Developer;⚡+Problem+Solver" alt="Typing Animation" />
 </h2>
+
 
 <!-- Visitors Counter -->
 <p align="center">
