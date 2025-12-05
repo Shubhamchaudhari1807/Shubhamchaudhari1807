@@ -42,7 +42,13 @@
 <br/>
 
 <!-- Animated GIF Section -->
-<img align="right" alt="Mobile & Web Development" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<p align="center">
+  <img src="https://cdn.dribbble.com/userupload/23854044/file/original-5e84ed56c6b3568265f5fafb6a8e4ecc.gif"
+       alt="Mobile & Web Developer Animation"
+       width="720">
+</p>
+
+<!-- <img align="right" alt="Mobile & Web Development" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> -->
 
 ## 🚀 About Me
 
