@@ -322,11 +322,10 @@ Java-based web solutions with:
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/Shubhamchaudhari1807/Shubhamchaudhari1807/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
