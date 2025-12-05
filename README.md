@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shubham%20Chaudhari&fontSize=42&fontAlignY=30&desc=Mobile%20App%20Developer%20|%20.NET%20Developer%20|%20Full%20Stack%20Web%20Developer&descAlignY=51&descAlign=50&animation=twinkling" />
 
 <!-- Animated Typing Text -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;📱+Mobile+App+Developer+%7C+Flutter+Expert;🌐+Full+Stack+Web+Developer+%7C+ASP.NET;Building+Scalable+Applications+%F0%9F%9A%80;200%2B+DSA+Problems+Solved+%F0%9F%92%AA" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;📱+Mobile+App+Developer+%7C+Flutter+Expert;🌐+Full+Stack+Web+Developer+%7C+ASP.NET;Building+Scalable+Applications+%F0%9F%9A%80;200%2B+DSA+Problems+Solved+%F0%9F%92%AA" alt="Typing SVG" /> -->
 
 <br/>
 
@@ -203,9 +203,11 @@ const shubham = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Shubhamchaudhari1807&show_icons=true&count_private=true&hide_border=true&title_color=00FFD1&icon_color=00FFD1&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhamchaudhari1807&theme=react&hide_border=true&stroke=0d1117&background=0d1117&ring=00FFD1&fire=00FFD1&currStreakLabel=00FFD1" alt="GitHub Streak" />
-</div>
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubhamchaudhari1807&show_icons=true&theme=radical&hide_border=true" height="165" />
+
+
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamchaudhari1807&layout=compact&hide_border=true&title_color=00FFD1&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
