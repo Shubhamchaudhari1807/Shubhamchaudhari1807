@@ -329,11 +329,6 @@ Java-based web solutions with:
 
 ---
 
-## 🌟 Contribution Heatmap
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/00FFD1/Shubhamchaudhari1807" alt="Shubham's Github Contribution Heatmap" width="100%" />
-</div>
 
 ---
 
