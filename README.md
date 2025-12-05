@@ -216,7 +216,7 @@ const shubham = {
 
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamchaudhari1807&layout=compact&hide_border=true&title_color=00FFD1&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhamchaudhari1807&bg_color=0d1117&color=00FFD1&line=00e5ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
