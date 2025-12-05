@@ -369,22 +369,43 @@ Java-based web solutions with:
 </div>
 
 ---
-
 <div align="center">
 
-### 💖 Thanks for Visiting My Profile! 
+### ⚓🇮🇳 Discipline of Defence • Mindset of a Developer 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-*✨ If you find my work interesting, consider starring ⭐ my repositories!*
+<p>
+I come from the spirit of an <b>Indian Navy Defence Aspirant</b> — where courage, discipline and commitment are not options, but a way of life.<br/>
+I now channel the same strength into my journey as a <b>Computer Engineer & Mobile App Developer</b>.
+</p>
 
 <br/>
 
+<!-- Wave Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,50:0074D9,100:7FDBFF&height=100&section=header" width="100%"/>
+
+<!-- Navy + Developer Animation -->
+<p align="center">
+  <img src="https://cdnl.iconscout.com/lottie/premium/thumb/indian-navy-sailor-animation-6827648-5568400.gif" width="300"/>
+  <img src="https://cdnl.iconscout.com/lottie/premium/thumb/mobile-app-developer-male-animation-7016805.gif" width="350"/>
+</p>
+
+<!-- Motivation Line -->
+<p><i>“Code like a developer. Think like a warrior.”</i></p>
+
+<br/>
+
+<!-- Footer Badges -->
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
+  <img src="https://img.shields.io/badge/Driven%20By%20Discipline-⚓-darkblue?style=for-the-badge"/>
 </p>
 
-*Made with 💜 by Shubham Chaudhari*
+<!-- Signature -->
+<h3>✨ Made with Passion • Pride • Patriotism 🇮🇳</h3>
+<b>— Shubham Chaudhari</b>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
+
