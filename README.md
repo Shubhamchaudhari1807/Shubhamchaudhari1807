@@ -208,10 +208,12 @@ const shubham = {
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<!-- <div align="center">
 
   <!-- GitHub Stats -->
+<!--
   <img src="https://github-readme-stats.vercel.app/api?username=Shubhamchaudhari1807&show_icons=true&theme=radical&hide_border=true" height="165" />
+  -->
 
 
 
