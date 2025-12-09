@@ -226,8 +226,16 @@ const shubham = {
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shubhamchaudhari1807&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+</div> -->
+
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Shubhamchaudhari1807&theme=radical&no-frame=true&no-bg=true&row=1&column=7"
+    width="100%"
+    alt="Trophy"
+  />
 </div>
 
 ---
